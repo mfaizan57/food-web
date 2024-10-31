@@ -1,0 +1,118 @@
+body {
+    margin: 8px;
+}
+
+#Main-header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+}
+
+header {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+.head-1 {
+    color: #b22222;
+    font-size: 40px;
+    text-align: center;
+    background-color: #fff3f3; 
+}
+
+h1 {
+    font-weight: bold;
+    display: block;
+}
+
+li {
+    display: list-item;
+    text-align: center
+}
+
+ul {
+    list-style-type: disc;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+header nav {
+    background-color: #333;
+    padding: 18px;
+    margin: 10px;
+    font-size: 14px;
+}
+
+#menu {
+    background-color: #fafafa;
+}
+
+.section-content {
+    background-color: #fdf6f6;
+    color: #333;
+}
+
+sectiom {
+    display: block;
+}
+
+.section-content h2 {
+    font-size: 28px;
+    color: #b22222;
+}
+
+h2 {
+    display: block;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.menu-item {
+    text-align: center;
+    color: #555;
+    background-color: #fff5f5;
+}
+
+div {
+    display: block;
+}
+
+h3 {
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#featured{
+    background-color: #f4f4f4;
+}
+
+
+.dish-item {
+    text-align: center;
+    color: #555;
+    background-color: #fff5f5;
+}
+
+form {
+    display: block;
+    margin-top: 0px;
+}
+
+.submit-btn {
+    background-color: #b22222;
+    color: #fff;
+    text-align: center;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.submit-btn:hover {
+    background-color: #d06e64;
+    border: none;
+}
